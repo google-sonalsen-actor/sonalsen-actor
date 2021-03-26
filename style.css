@@ -93,11 +93,26 @@
     }
 }
   section{
-    background: url() no-repeat;
-    background-size: cover;
-    height: calc(100vh - 80px);
-  }
+    
+    
   
+    
+   height:100vh;
+   width: auto;
+    background: url("https://raw.githubusercontent.com/google-sonalsen-actor/google-sonalsen-actor/main/IMG_20210322_014712_291.jpg") no-repeat;
+    background-size: cover;
+    
+  }
+
+  .sec{
+    font-family: 'Schoolbell', cursive;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+    color: #a4dd39;
+    margin:0 auto;
+    display: block;
+}
 
 
 
